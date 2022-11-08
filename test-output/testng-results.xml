@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-07T19:21:40 IST" name="Default suite" finished-at="2022-10-07T19:21:46 IST" duration-ms="6351">
+    <groups>
+    </groups>
+    <test started-at="2022-10-07T19:21:40 IST" name="Default test" finished-at="2022-10-07T19:21:46 IST" duration-ms="6351">
+      <class name="com.testng.Timeout_testing">
+        <test-method signature="names()[pri:0, instance:com.testng.Timeout_testing@62230c58]" started-at="2022-10-07T19:21:40 IST" name="names" finished-at="2022-10-07T19:21:46 IST" duration-ms="6103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- names -->
+      </class> <!-- com.testng.Timeout_testing -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
